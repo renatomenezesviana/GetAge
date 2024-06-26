@@ -61,11 +61,11 @@ function Age(HyphensYYYYMMDD) {
     erros = erros + 1;
   }
 
-  if (mmBirt == 2 && biBirt < 1 && ddBirt > 28) {
+  if (mmBirt == 2 && biBirt < 1 && ddBirt > 29) {
     erros = erros + 1;
   }
 
-  if (mmBirt == 2 && biBirt > 0 && ddBirt > 27) {
+  if (mmBirt == 2 && biBirt > 0 && ddBirt > 28) {
     erros = erros + 1;
   }
 
