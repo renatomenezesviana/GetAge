@@ -83,7 +83,7 @@ function Age(HyphensYYYYMMDD) {
 
 	
 // prevent year < 1000
-	var menorano = birthDate.getFullYear();
+	var menorano = aaBirt;
 
 // data input (birth) without hyphens
     var dateString = dateInput;
