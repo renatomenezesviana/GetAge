@@ -6,10 +6,17 @@ import '/flutter_flow/custom_functions.dart'; // Imports custom functions
 import 'package:flutter/material.dart';
 // Begin custom action code
 // DO NOT REMOVE OR MODIFY THE CODE ABOVE!
-
-//import 'dart:html_common';
-
-//import 'dart:js_interop';
+// Define App Values all persisted:
+// APPidade integer
+// APPXmesnas string
+// APPXdianas string
+// APPXanonas string
+// APPbiaanomes integer
+// APPmesnas integer
+// APPdianas integer
+// APPanonas integer
+// APPerros integer
+////////////////////////////////////
 
 // Set your action name, define your arguments and return parameter,
 // and then add the boilerplate code using the green button on the right!
